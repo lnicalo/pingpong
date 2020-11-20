@@ -1,4 +1,4 @@
-# Quick Poc with Nameko, Kafka and Flask
+# Ping Pong Service PoC with Nameko, Kafka and Flask
 
 ## Architecture
 
