@@ -42,7 +42,7 @@ Very simple metrics:
     To send messages from ping to pong: `curl localhost:8000/ping/<num_messages>/<size>`. Then pong will generate a response to ping.
 
     To send messages from pong to ping: `curl localhost:8000/pong/<num_messages>/<size>`
-    Ping will not generate a response to pong to break the look
+    Ping will not generate a response to pong to break the loop
 
     Endpoint response returns the metrics e.g:
 
